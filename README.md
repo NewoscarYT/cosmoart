@@ -2,8 +2,8 @@
 <a href="https://cosmoart.github.io">
   <img src="https://github.com/cosmoart/cosmoart/blob/main/assets/hero.webp" alt="Hi!, i am cosmo" width="40%"/>
   </a>
-  <p>I am a junior web developer looking to <strong>learn and improve</strong> every day. I specialize in frontend development working
-with technologies like HTML, CSS and JS. I am currently improving and acquiring new knowledge in technologies like <strong>React.</strong></p>
+  <p>I am a junior web developer looking to <strong>learn and improve</strong> every day. Working
+  with technologies like HTML, CSS and JS. I am currently improving and acquiring new knowledge in technologies like <strong>React and React-native</strong></p>
 </div>
 
 ### GitHub stats
@@ -32,12 +32,12 @@ with technologies like HTML, CSS and JS. I am currently improving and acquiring 
 <br />
 <br />
 
-<a href="https://www.instagram.com/cosmo_art0/">
+<a href="https://www.instagram.com/oscar_serrano_clemente/">
   <img align="right" alt="Instagram" width="22px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/instagram.svg" />
 </a>
-<a href="https://discord.com/users/734087835472232559">
+<a href="https://discord.com/users/739421873816993835">
   <img align="right" alt="Discord" width="22px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/discord.svg" />
 </a>
-<a href="mailto:cosmohydra17@gmail.com">
+<a href="mailto:newoscaryt@gmail.com">
   <img align="right" alt="Mail" width="22px"  height="27px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/gmail.svg" />
 </a>
