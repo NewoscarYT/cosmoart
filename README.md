@@ -10,7 +10,7 @@ with technologies like HTML, CSS and JS. I am currently improving and acquiring 
 
 <div align="center">
   
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosmoart&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cosmoart&&show_icons=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewoscarYT&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NewoscarYT&&show_icons=true&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
   
 </div>
@@ -19,11 +19,11 @@ with technologies like HTML, CSS and JS. I am currently improving and acquiring 
   
 <div align="center">
   
-<a href="https://github.com/CosmoArt/four-card-feature-section-master">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=four-card-feature-section-master&show_icons=true&theme=github_dark" />
+<a href="https://github.com/NewoscarYT/four-card-feature-section-master">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NewoscarYT&repo=four-card-feature-section-master&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://github.com/CosmoArt/stats-preview-card-component-main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cosmoart&repo=stats-preview-card-component-main&show_icons=true&theme=github_dark" />
+<a href="https://github.com/NewoscarYT/stats-preview-card-component-main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NewoscarYT&repo=stats-preview-card-component-main&show_icons=true&theme=github_dark" />
 </a>
   
 </div>
