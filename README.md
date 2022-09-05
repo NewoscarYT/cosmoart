@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=newoscaryt&repo=FusionSecurity-Web&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/newoscaryt/stats-preview-card-component-main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=newoscarytt&repo=Cambio-de-Theme&show_icons=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=newoscaryt&repo=Cambio-de-Theme&show_icons=true&theme=github_dark" />
 </a>
   
 </div>  
