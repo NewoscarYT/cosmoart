@@ -16,12 +16,11 @@
 </div>
 
 ### Top Repositories
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=newoscaryt&repo=FusionSecurity-Web)](https://github.com/newoscarYT/FusionSecurity-Web)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=newoscaryt&repo=Cambio-de-Theme)](https://github.com/newoscarYT/Cambio-de-Theme)
 <div align="center">
-  
-  
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=newoscaryt&repo=FusionSecurity-Web)](https://github.com/newoscarYT/FusionSecurity-Web)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=newoscaryt&repo=Cambio-de-Theme)](https://github.com/newoscarYT/Cambio-de-Theme)
 </div>
+### Frameworks i use
 
 <br />
 <br />
