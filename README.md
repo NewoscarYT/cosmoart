@@ -27,8 +27,11 @@
 <br />
 <br />
 
-<p align="center"><img src="https://github.com/newoscaryt/newoscaryt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/newoscaryt/newoscaryt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/newoscaryt/newoscaryt?style=flat-square&labelColor=343b41"/></p>
-
+<p align="center">
+ <img src="https://github.com/newoscaryt/newoscaryt/workflows/README%20build/badge.svg" /> 
+ <img alt="Stars" src="https://img.shields.io/github/stars/newoscaryt/newoscaryt?style=flat-square&labelColor=343b41"/> 
+ <img alt="Forks" src="https://img.shields.io/github/forks/newoscaryt/newoscaryt?style=flat-square&labelColor=343b41"/></p>
+</p>
 <a href="https://www.instagram.com/oscar_serrano_clemente/">
   <img align="right" alt="Instagram" width="22px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/instagram.svg" />
 </a>
