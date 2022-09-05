@@ -19,12 +19,6 @@
   
 <div align="center">
   
-<a href="https://github.com/NewoscarYT/four-card-feature-section-master">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NewoscarYT&repo=four-card-feature-section-master&show_icons=true&theme=github_dark" />
-</a>
-<a href="https://github.com/NewoscarYT/stats-preview-card-component-main">
-  <img align="center" src="https://github.com/NewoscarYT/FusionSecurity-Web" />
-</a>
   
 </div>
 
