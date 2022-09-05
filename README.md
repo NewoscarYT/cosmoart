@@ -24,17 +24,19 @@
 </div>
 <br />
 
-### Frameworks i use
-
+### Things I code with
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+ <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <br />
 <br />
 <br />
 
-<p align="center">
- <img src="https://github.com/newoscaryt/newoscaryt/workflows/README%20build/badge.svg" /> 
- <img alt="Stars" src="https://img.shields.io/github/stars/newoscaryt/newoscaryt?style=flat-square&labelColor=343b41"/> 
- <img alt="Forks" src="https://img.shields.io/github/forks/newoscaryt/newoscaryt?style=flat-square&labelColor=343b41"/></p>
-</p>
 <a href="https://www.instagram.com/oscar_serrano_clemente/">
   <img align="right" alt="Instagram" width="22px" src="https://github.com/cosmoart/cosmoart/blob/main/assets/instagram.svg" />
 </a>
