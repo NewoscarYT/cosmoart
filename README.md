@@ -19,7 +19,7 @@
 <div align="center">
   
   <a href="https://github.com/newoscaryt/four-card-feature-section-master">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=newoscaryt&repo=four-card-feature-section-master&show_icons=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=newoscaryt&repo=FusionSecurity-Web&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/newoscaryt/stats-preview-card-component-main">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=newoscarytt&repo=stats-preview-card-component-main&show_icons=true&theme=github_dark" />
