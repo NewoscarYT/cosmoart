@@ -16,7 +16,7 @@
 </div>
 
 ### Top Repositories
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=newoscaryt&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=newoscaryt&repo=github-readme-stats)](https://github.com/newoscarYT/github-readme-stats)
 <div align="center">
   
   
