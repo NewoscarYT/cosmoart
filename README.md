@@ -16,10 +16,8 @@
 </div>
 
 ### Top Repositories
-<p align="center">
   (https://github-readme-stats.vercel.app/api/pin/?username=newoscaryt&repo=FusionSecurity-Web)](https://github.com/newoscarYT/FusionSecurity-Web)
   (https://github-readme-stats.vercel.app/api/pin/?username=newoscaryt&repo=Cambio-de-Theme)](https://github.com/newoscarYT/Cambio-de-Theme)  
-</p>
 
 <br />
 
